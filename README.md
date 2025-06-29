@@ -1,6 +1,6 @@
 🔍 Electric Vehicle Dashboard
 
-![Alt text](path/to/image.png)
+![Alt text](https://github.com/AmrHamouda/Electric-Vehicles-Dashboard/blob/3c308d9e2903720148bb0f6a02dc0b9e8c88545e/Electric%20vehicles.png)
 
 This project provides an analytical overview of electric vehicle (EV) adoption in the U.S., focusing on both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). The insights derived help understand market trends, manufacturer performance, and the influence of environmental incentives.
 
